@@ -1,5 +1,5 @@
 # IDSHW2
-
+Link: https://share.streamlit.io/yinmiaoli/idshw2/main/HW2.py
 1. A clear description of the goals of your project.  
 The data I chose is “New York City Airbnb Open Data”. The data includes the latitude and longitude of each room, the price of the room, the room type, and the neighbourhood each room belongs to. It will be interesting to see how many rooms each location have and the price of roms in each neighborhood, we could also see how will the quantity changes and top 5 expensive and 5 cheapest rooms when we select specific room types. In short, I’m trying to help landlord to see potential opportunities to increase specific room types in different locations. It also helps people who are looking for an airbnb in New York to see the room choices and price in different neighborhood.
 
